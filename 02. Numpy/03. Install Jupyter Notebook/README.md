@@ -176,8 +176,9 @@ Remove an environment:
 ```bash
 conda remove -n jupyter-env --all
 ```
-
-
+## Example of Deleting Jupyter Notebook
+![Jupyter Notebook ](assets/uninstall-jupyter1.png)
+![Jupyter Notebook ](assets/uninstall-jupyter2.png)
 
 ## 🏁 Summary
 
