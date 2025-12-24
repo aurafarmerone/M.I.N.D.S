@@ -76,7 +76,7 @@ conda activate jupyter-env
 You should now see:
 
 ```
-(jupyter-env)
+(Base) -> (jupyter-env)
 ```
 ## 📸 Screenshot Example: 
 ![Jupyter Notebook](assets/conda-activate.png)
