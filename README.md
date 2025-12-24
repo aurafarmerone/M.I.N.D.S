@@ -1,5 +1,5 @@
-# 🚀 M.I.N.D.S – Complete AI/ML & GenAI Roadmap  
-### 🧠 *Machine Intelligence & Data Science*
+# 🚀 M.I.N.D.S   
+### 🧠 *Machine Intelligence & Data Science(MINDS)*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -10,7 +10,7 @@
 
 ## 👋 Welcome
 
-**M.I.N.D.S (Machine Intelligence & Data Science)** is a **well-structured, beginner-friendly, yet industry-focused repository** designed to help you master:
+**M.I.N.D.S (Machine Intelligence & Data Science)** is a **well-structured, beginner-friendly, yet industry-focused repository** designed to help you learn:
 
 > 🤖 **Artificial Intelligence & Machine Learning — from zero to real-world deployment**
 
