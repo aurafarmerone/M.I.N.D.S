@@ -112,7 +112,7 @@ Jupyter will run on:
 http://localhost:8888
 ```
 ## 📸 Screenshot Example: 
-![Jupyter Notebook](assets/conda-run.png)
+![Jupyter Notebook](assets/jupyter-run.png)
 
 A browser window will open automatically.
 
