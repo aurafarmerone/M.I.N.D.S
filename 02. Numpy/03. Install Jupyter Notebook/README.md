@@ -114,9 +114,9 @@ A browser window will open automatically.
 
 Add a screenshot showing Jupyter running in the browser:
 
-```md
+
 ![Jupyter Notebook running on localhost](assets/jupyter-localhost.png)
-```
+
 
 > **Figure:** Jupyter Notebook running locally at `http://localhost:8888` using a Conda environment.
 
