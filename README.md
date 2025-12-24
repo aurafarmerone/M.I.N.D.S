@@ -4,9 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Project](https://img.shields.io/badge/Project-Open%20Source-blue)
-![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-purple)
+![Level](https://img.shields.io/badge/Level-Beginner%20%20-purple)
 
----
+
 
 ## 👋 Welcome
 
@@ -20,7 +20,7 @@ This repository focuses on:
 - ✅ Clear explanations  
 - ✅ Real-world & industry-grade projects  
 
----
+
 
 ## 🎯 Who Is This For?
 
@@ -34,7 +34,7 @@ This repository is perfect for:
 👉 **No prior AI/ML experience required**  
 👉 Python is taught **from scratch**  
 
----
+
 
 ## 🧠 What You Will Learn
 
@@ -48,11 +48,11 @@ By completing this repository, you will be able to:
 - 🚀 Deploy AI applications  
 - 🏢 Build **industry-level AI projects**  
 
----
+
 
 ## 📚 Complete Learning Roadmap
 
----
+
 
 ## 🐍 1. Python & Data Foundations
 
@@ -70,7 +70,7 @@ By completing this repository, you will be able to:
   - Encapsulation  
   - Abstraction  
 
----
+
 
 ## 📊 2. Data Collection, Processing & Visualization
 
@@ -86,7 +86,7 @@ By completing this repository, you will be able to:
 - 📈 Matplotlib  
 - 🎨 Seaborn  
 
----
+
 
 ## 📐 3. Mathematics for AI & ML
 
@@ -97,7 +97,7 @@ By completing this repository, you will be able to:
 - 🔗 Correlation & Covariance  
 - 🧠 Math intuition behind ML algorithms  
 
----
+
 
 ## 🤖 4. Machine Learning
 
@@ -133,7 +133,7 @@ By completing this repository, you will be able to:
 
 ✅ **Multiple ML projects included**
 
----
+
 
 ## 🧠 5. Deep Learning
 
@@ -155,7 +155,7 @@ By completing this repository, you will be able to:
 
 ✅ **Multiple Deep Learning projects**
 
----
+
 
 ## 🌐 6. Generative AI (GenAI)
 
@@ -171,7 +171,7 @@ By completing this repository, you will be able to:
 - Claude  
 - OpenAI APIs  
 
----
+
 
 ## 🛠️ 7. AI Engineering Stack
 
@@ -182,7 +182,7 @@ By completing this repository, you will be able to:
 - 🐳 Docker  
 - ☸ Kubernetes  
 
----
+
 
 ## 🚀 8. Projects
 
@@ -197,7 +197,7 @@ By completing this repository, you will be able to:
 - 🎬 Media  
 - 🤖 GenAI Assistant  
 
----
+
 
 ## 🗂 Repository Structure
 
@@ -218,7 +218,7 @@ M.I.N.D.S/
 └── README.md
 ```
 
----
+
 
 ## 🤝 Contributing
 
@@ -230,7 +230,7 @@ You can contribute by:
 - 🧪 Adding projects  
 - 🐞 Fixing bugs  
 
----
+
 
 ## ⭐ Support
 
@@ -239,7 +239,7 @@ If this repo helps you:
 - 🔁 Share it  
 - 🤝 Contribute back  
 
----
+
 
 ## 👤 Author
 
