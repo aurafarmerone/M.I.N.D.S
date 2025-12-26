@@ -155,48 +155,7 @@ def clean_data(data):
             rating = text_to_num[rating]
 
         user["rating"] = rating
-```python
-def clean_ratings(data):
-    # map text ratings to numbers
-    text_to_num = {
-        "one": 1,
-        "two": 2,
-        "three": 3,
-        "four": 4,
-        "five": 5
-    }
-
-    for user in data:
-        # take rating and normalize text
-        rating = user["rating"].strip().lower()
-
-        # convert text rating to number
-        if rating in text_to_num:
-            user["rating"] = text_to_num[rating]
-        else:
-            # convert numeric string or float-like value
-            user["rating"] = float(rating)
-```python
-def clean_ratings(data):
-    text_to_num = {
-        "one": 1,
-        "two": 2,
-        "three": 3,
-        "four": 4,
-        "five": 5
-    }
-
-    for user in data:
-        rating = user["rating"]
-
-        if isinstance(rating, str):
-            rating = rating.strip().lower()
-            if rating in text_to_num:
-                rating = text_to_num[rating]
-            else:
-                rating = float(rating)
-
-        user["rating"] = rating
+ 
 ```
 
 
@@ -207,21 +166,11 @@ def clean_ratings(data):
 
 ```python
 # 4.5 → 4
-
-def float_to_int(data):
-    for user in data:
-        if 0 <= float(user["rating"]) <= 9:
-            user["rating"] = int(float(user["rating"]))
-```python
 def float_to_int(data):
     for user in data:
         # convert float rating like 3.5 → 3
         user["rating"] = int(user["rating"])
-```python
-def float_to_int(data):
-    for user in data:
-        if isinstance(user["rating"], float):
-            user["rating"] = int(user["rating"])
+
 ```
 
 
@@ -257,18 +206,7 @@ def remove_duplicates(data):
             result.append(user)   # add user to result
 
     return result
-```python
-def remove_duplicates(data):
-    seen = set()
-    result = []
-
-    for user in data:
-        name = user.get("name", "").strip().lower()
-        if name not in seen:
-            seen.add(name)
-            result.append(user)
-
-    return result
+ 
 ```
 
 
