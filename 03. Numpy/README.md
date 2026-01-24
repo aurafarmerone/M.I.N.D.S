@@ -9,7 +9,7 @@ This guide focuses on:
 - ✅ Visual structure for easy reading
 - ✅ Concepts used in Data Science, ML, and interviews
 
----
+
 
 ## 📌 What is NumPy?
 
@@ -26,7 +26,7 @@ Python lists are flexible but **slow for numerical work**. NumPy solves this by:
 - Scientific Computing
 - Image & Signal Processing
 
----
+
 
 ## 1️⃣ Introduction to NumPy
 
@@ -50,7 +50,7 @@ print(arr)
 ✅ **Key takeaway**:
 > NumPy arrays are faster, smaller, and more powerful than Python lists
 
----
+
 
 ## 2️⃣ Creating NumPy Arrays
 
@@ -62,7 +62,7 @@ np.array([10, 20, 30])
 ```
 Used when you already have data.
 
----
+
 
 ### 🔹 Using `zeros()`
 ```python
@@ -70,7 +70,7 @@ np.zeros(5)
 ```
 Creates an array filled with `0` — useful for initialization.
 
----
+
 
 ### 🔹 Using `ones()`
 ```python
@@ -78,7 +78,7 @@ np.ones(4)
 ```
 Creates an array filled with `1`.
 
----
+
 
 ### 🔹 Using `arange()`
 ```python
@@ -86,7 +86,7 @@ np.arange(1, 10, 2)
 ```
 Similar to Python `range()` but returns a NumPy array.
 
----
+
 
 ### 🔹 Using `linspace()`
 ```python
@@ -97,7 +97,7 @@ Creates evenly spaced values — very useful in mathematics and ML.
 ✅ **Key takeaway**:
 > NumPy offers fast and flexible array creation methods
 
----
+
 
 ## 3️⃣ NumPy Array Properties
 
@@ -124,7 +124,7 @@ arr.dtype
 ✅ **Key takeaway**:
 > Always check shape and dtype before doing operations
 
----
+
 
 ## 4️⃣ NumPy Operations
 
@@ -150,7 +150,7 @@ a + 5
 🧠 **Why this is powerful?**  
 No loops. Faster execution. Cleaner code.
 
----
+
 
 ## 5️⃣ NumPy Data Types
 
@@ -174,7 +174,7 @@ arr_float = arr.astype(float)
 ✅ **Key takeaway**:
 > Choosing the right dtype improves memory and speed
 
----
+
 
 ## 6️⃣ Multi‑Dimensional Arrays
 
@@ -198,7 +198,7 @@ arr2d[:, 1]
 🧠 **Why this matters?**  
 Most real-world data is 2D or higher (tables, images).
 
----
+
 
 ## 7️⃣ Vectorization & Broadcasting ⭐ (Very Important)
 
@@ -223,7 +223,7 @@ b = a * 2
 - ✨ Cleaner code
 - 💾 Better memory usage
 
----
+
 
 ### 🔹 Broadcasting
 Broadcasting allows NumPy to work with arrays of different shapes.
@@ -244,7 +244,7 @@ print(a + b)
 ✅ **Key takeaway**:
 > Broadcasting + vectorization = NumPy superpower 💪
 
----
+
 
 ## 8️⃣ NumPy Mathematical Functions
 
@@ -273,7 +273,7 @@ Other useful functions:
 - `np.log()`
 - `np.sin()`, `np.cos()`
 
----
+
 
 ## 🎯 Final Summary
 
@@ -288,7 +288,7 @@ This README is ideal for:
 - Quick revision 📘
 - Interview prep 🎯
 
----
+
 
 ### ⭐ Support
 If this helped you, give the repository a ⭐ and keep learning!
